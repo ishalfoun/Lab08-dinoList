@@ -1,0 +1,43 @@
+<resources>
+    <string name="title">Title</string>
+    <string name="app_name">DinoList</string>
+    <string name="app_title">Dinosaurs List</string>
+
+    <string name="allosaurus">Allosaurus</string>
+    <string name="allosaurus_info">Allosaurus lived around 150 million years ago in the late
+        Jurassic Period. The name Allosaurus means ‘different lizard’. Allosaurus was first
+        described by Othniel Marsh in 1877 and become one of the first well known dinosaurs.
+        Marsh also named and gave the first description of the Apatosaurus (Brontosaurus)
+        in that same year. Most Allosaurus fossils have been found in the Morrison Formation,
+        a distinctive band of sedimentary rock found in the western United States. Allosaurus
+        had a large skull and walked on two legs. Its body and head were balanced by a long
+        and heavy tail.</string>
+
+    <string name="apatosaurus">Apatosaurus</string>
+    <string name="apatosaurus_info">The Apatosaurus is also well known as the Brontosaurus. Confusion was caused when bones of the giant dinosaur were first discovered back in 1877 by Othniel Charles Marsh. After naming the new dinosaur Apatosaurus (meaning deceptive lizard), he later found a larger set of bones and incorrectly thought they were a new species which he then named Brontosaurus (meaning thunder lizard). It turns out that the second set of bones were just the adult version of the Apatosaurus. The name Brontosaurus caught on and it wasn’t until recently that the original and technically correct name Apatosaurus has gained widespread use among the public.</string>
+
+    <string name="afrovenator">Afrovenator</string>
+    <string name="afrovenator_info"> The name Afroventor means African Hunter, referring to the area they lived and the fact that they were carnivorous theropods with a predatory nature.</string>
+    <string name="achelousaurus">Achelousaurus</string>
+    <string name="achelousaurus_info">Achelousaurus, a dinosaur from the late Cretaceous Period (around 80 million years ago) that lived in what is now North America. Achelousaurus was a herbivore that reached around 6 metres (20 feet) in length and featured two distinct horns coming from its neck frill. It was named in 1995 by paleontologist Scott Sampson.</string>
+    <string name="abrosaurus">Abrosaurus</string>
+    <string name="abrosaurus_info">Abrosaurus was a Sauropod but quite small relative to others, reaching about 9 metres (30 feet) in length. It was a herbivore (plant eater) and its name means delicate lizard.</string>
+
+
+    <string-array name="dinoList">
+        <item>@string/allosaurus</item>
+        <item>@string/apatosaurus</item>
+        <item>@string/afrovenator</item>
+        <item>@string/achelousaurus</item>
+        <item>@string/abrosaurus</item>
+    </string-array>
+
+    <string-array name="dinoListInfo">
+        <item>@string/allosaurus_info</item>
+        <item>@string/apatosaurus_info</item>
+        <item>@string/afrovenator_info</item>
+        <item>@string/achelousaurus_info</item>
+        <item>@string/abrosaurus_info</item>
+    </string-array>
+
+</resources>
